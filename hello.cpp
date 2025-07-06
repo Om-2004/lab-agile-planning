@@ -2,9 +2,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void funky_code(vector<int> &arr){
-  for(int i=0;i<arr.size();i++){
-    cout<<arr[i]<<" ";
+void dunky_code(vector<int> &nums){
+  for(int i=0;i<nums.size();i++){
+    cout<<nums[i]<<" ";
   }cout<<endl;
 }
 
